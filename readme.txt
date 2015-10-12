@@ -1,7 +1,7 @@
 Information Retrieval Exercise 2
 identify document in English or in German, using character n-gram
 
-Provide as command line arguments
+Provide these arguments to command line
 1) An English corpus
 2) A German corpus
 3) A test file with one sentence per line 
