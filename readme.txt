@@ -1,3 +1,4 @@
+"langIdentifier.scala" is my code
 Information Retrieval Exercise 2
 identify document in English or in German, using character n-gram
 
@@ -9,3 +10,6 @@ Provide these arguments to command line
 Usage
 scalac langIdentifier.scala
 scala langIdentification.langIdentifier "path to English corpus" "path to German corpus" "path to test document"
+
+
+"LanguageRecognizer.scala" is TA's solution
